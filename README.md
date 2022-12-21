@@ -1,3 +1,7 @@
+ESP32 Fix
+==========================
+si5351_read adjusted for ESP32
+
 Si5351 Library for Arduino
 ==========================
 This is a library for the Si5351 series of clock generator ICs from [Silicon Labs](http://www.silabs.com) for the Arduino development environment. It will allow you to control the Si5351 with an Arduino, and without depending on the proprietary ClockBuilder software from Silicon Labs.
